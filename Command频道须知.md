@@ -2,8 +2,8 @@
 
 > 这里是本组Minecraft command系统的存储地点
 
-文件后会标明ooc或者function
+>文件后会标明ooc或者function
 
-禁止用于商业用途
+>禁止用于商业用途
 
-转载请标明上传作者
+>转载请标明上传作者
